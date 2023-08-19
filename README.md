@@ -1,6 +1,5 @@
 # Fundamentals-Of-ML-CSCIUA479-Projects
 
-(Dataset/Interesting Name)
 This repository contains all the files for homeworks, reports and projects for NYU's Fundamentals of Machine Learning Class (CSCIUA479), led by Pascal Wallisch. Each assignment involved a mandatory report describing the approach used in the code and reasons for the approach. More in-depth info on the Homeworks and Project are below:
 
 ## Homework 1
